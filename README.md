@@ -1,6 +1,6 @@
 <!-- Level 3: Add custom code -->
 
-# 👋 Hi, I'm Wayne!
+# Hi, I'm Wayne
 👩🏻‍🎓 Studying Software Engineering at San Jose State, California<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
