@@ -3,8 +3,7 @@
 # Hi, I'm Wayne
 👩🏻‍🎓 Studying Software Engineering at San Jose State, California<br/>
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-<!--//![](https://github-readme-stats.vercel.app/api?username=Embotic-Wayne&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
+SWE @SJSU, Officer @Software and Computer Engineering Society, and member @Society of Asian Scientists & Engineers
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
@@ -16,5 +15,10 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#  Contact Me
+
+-  **Email:** [ngowayne12@gmail.com](mailto:ngowayne12@gmail.com)
+-  **LinkedIn:** [linkedin.com/in/wayne-ngo](https://www.linkedin.com/in/wayne-ngo)
 
 
