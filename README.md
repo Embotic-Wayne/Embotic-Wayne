@@ -5,16 +5,14 @@
 
 SWE @SJSU, Officer @Software and Computer Engineering Society, and member @Society of Asian Scientists & Engineers
 
-##  Technical
+##  Technical Skills
 
-###  Languages
-Java · JavaScript · TypeScript · Python · HTML/CSS · SQL
 
-###  Frameworks & Libraries
-React · Node.js · Express.js · Spring Boot · Spring Security · Next.js · FastAPI · Tailwind CSS
+Languages: Java · JavaScript · TypeScript · Python · HTML/CSS · SQL
 
-###  Developer Tools & Platforms
-Git · Docker · MongoDB · IntelliJ IDEA · Postman · PostgreSQL · Maven · Prometheus · Grafana
+Frameworks & Libraries: React · Node.js · Express.js · Spring Boot · Spring Security · Next.js · FastAPI · Tailwind CSS
+
+Developer Tools & Platforms: Git · Docker · MongoDB · IntelliJ IDEA · Postman · PostgreSQL · Maven · Prometheus · Grafana
 
 #  Contact Me
 
