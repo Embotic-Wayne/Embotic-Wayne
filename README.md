@@ -3,7 +3,7 @@
 # Hi, I'm Wayne
 👩🏻‍🎓 Studying Software Engineering at San Jose State, California<br/>
 
-SWE @SJSU, Officer @Software and Computer Engineering Society, and member @Society of Asian Scientists & Engineers
+Officer @Software and Computer Engineering Society, and member @Society of Asian Scientists & Engineers
 
 ##  Technical Skills
 
