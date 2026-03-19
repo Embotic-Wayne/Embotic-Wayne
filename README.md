@@ -1,10 +1,19 @@
 <!-- Level 3: Add custom code -->
 
-Wayne Ngo
-software engineering @ san jose state univsersity
-Dev Team @ Software and Computer Engineering Society
+### wayne ngo
+- software engineering @ san jose state univsersity
+- dev team @ Software and Computer Engineering Society
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Embotic-Wayne&layout=compact&theme=merko)](https://github.com/Embotic-Wayne)
 
 
-  **LinkedIn:** [linkedin.com/in/wayne-ngo](https://www.linkedin.com/in/wayne-ngo)  **Email:** [ngowayne12@gmail.com](mailto:ngowayne12@gmail.com)
+
+### worked with
+
+- Frameworks: React, Next.js, Node.js, Express.js, Spring, FastAPI, LangGraph, Lang Chain
+- Dev Tools: Git, Docker, MongoDB, PostgreSQL, Prometheus, Grafana, Vercel
 
 
+### contact me
+
+[**LinkedIn**](https://www.linkedin.com/in/wayne-ngo) - [**Email**](mailto:ngowayne12@gmail.com)
