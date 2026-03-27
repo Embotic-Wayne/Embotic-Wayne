@@ -1,7 +1,7 @@
 <!-- Level 3: Add custom code -->
 
 ### wayne ngo
-- software engineering @ san jose state univsersity
+- software engineering @ san jose state university
 - dev team @ Software and Computer Engineering Society
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Embotic-Wayne&layout=compact&theme=merko)](https://github.com/Embotic-Wayne)
