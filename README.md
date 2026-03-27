@@ -4,8 +4,7 @@
 - software engineering @ san jose state university
 - dev team @ Software and Computer Engineering Society
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Embotic-Wayne&layout=compact&theme=merko)](https://github.com/Embotic-Wayne)
-
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Embotic-Wayne&layout=compact&theme=merko)](https://github.com/Embotic-Wayne)
 
 
 ### worked with
