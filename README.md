@@ -10,7 +10,7 @@
 ### worked with
 
 - Frameworks: React, Next.js, Node.js, Express.js, Spring, FastAPI, LangGraph, Lang Chain
-- Dev Tools: Git, Docker, MongoDB, PostgreSQL, Prometheus, Grafana, Vercel
+- Dev Tools: Git, Docker, Kubernetes, MongoDB, PostgreSQL, Prometheus, Grafana, Vercel
 
 
 ### contact me
