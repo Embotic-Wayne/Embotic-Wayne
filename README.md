@@ -1,5 +1,3 @@
-<!-- Level 3: Add custom code -->
-<img width="286" height="340" alt="Screenshot 2026-04-01 211917" src="https://github.com/user-attachments/assets/ba3d51e4-2af9-41ac-b8df-afaa28dec538" />
 
 ## **wayne ngo**
 - software engineering @ san jose state university
