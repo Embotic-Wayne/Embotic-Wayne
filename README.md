@@ -1,6 +1,7 @@
 <!-- Level 3: Add custom code -->
+<img width="286" height="340" alt="Screenshot 2026-04-01 211917" src="https://github.com/user-attachments/assets/ba3d51e4-2af9-41ac-b8df-afaa28dec538" />
 
-### wayne ngo
+## **wayne ngo**
 - software engineering @ san jose state university
 - dev team @ Software and Computer Engineering Society
 
@@ -9,8 +10,8 @@
 
 ### worked with
 
-- Frameworks: React, Next.js, Node.js, Express.js, Spring, FastAPI, LangGraph, Lang Chain
-- Dev Tools: Git, Docker, Kubernetes, MongoDB, PostgreSQL, Prometheus, Grafana, Vercel
+- frameworks: React, Next.js, Node.js, Express.js, Spring, FastAPI, LangGraph, Lang Chain
+- dev tools: Git, Docker, Kubernetes, MongoDB, PostgreSQL, Prometheus, Grafana, Vercel
 
 
 ### contact me
